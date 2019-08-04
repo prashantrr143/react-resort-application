@@ -6,7 +6,7 @@ service provided by a resot. User can apply filer based on the number of guests,
 For local development and testing, the data consumed by the app here is setup locally in data.js and can be modified as
 per requirement. 
 
-There is another branch feature/contenful , whihch is using Contentful server which is being used as an endpoint for 
+There is another branch feature/contentful , whihch is using Contentful server which is being used as an endpoint for 
 the data consumed by this service.
 
 
